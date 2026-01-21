@@ -139,6 +139,9 @@ html {
 @media (min-width: 768px) {
   .parallax-section {
     min-height: 35vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .parallax-section .bg-fixed {
     background-attachment: fixed;
