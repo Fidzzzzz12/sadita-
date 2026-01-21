@@ -1,0 +1,12 @@
+{
+  "name": "satwa-medika-utama",
+  "version": "1.0.0",
+  "description": "Landing page untuk PT. Satwa Medika Utama - Obat Sapi Ternak",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["landing-page", "vanilla-js", "tailwind"],
+  "author": "PT. Satwa Medika Utama",
+  "license": "MIT"
+}
